@@ -1,5 +1,4 @@
 # British Airways certification with Forage
-# British Airways Data Science Certification Project
 
 Welcome to my project repository, where I share the insights and models developed during my completion of the British Airways Data Science Certification in collaboration with Forage. This program was an enriching journey into the world of data science, focusing on its application within the airline industry.
 
